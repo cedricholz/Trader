@@ -1,7 +1,5 @@
 import json
 from datetime import datetime
-import tweepy
-from tweepy import OAuthHandler
 import urllib
 
 
